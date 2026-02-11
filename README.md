@@ -1,2 +1,2 @@
 # Code base for NJUHML
-## 请组员在dev分支下修改
+## 请组员在对应文件夹中修改并push
