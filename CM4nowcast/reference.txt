@@ -1,0 +1,38 @@
+@inproceedings{gao2022earthformer,
+  title={Earthformer: Exploring Space-Time Transformers for Earth System Forecasting},
+  author={Gao, Zhihan and Shi, Xingjian and Wang, Hao and Zhu, Yi and Wang, Yuyang and Li, Mu and Yeung, Dit-Yan},
+  booktitle={NeurIPS},
+  year={2022}
+}
+@article{ravuris2021skillful,
+  author={Suman Ravuri and Karel Lenc and Matthew Willson and Dmitry Kangin and Remi Lam and Piotr Mirowski and Megan Fitzsimons and Maria Athanassiadou and Sheleem Kashem and Sam Madge and Rachel Prudden Amol Mandhane and Aidan Clark and Andrew Brock and Karen Simonyan and Raia Hadsell and Niall Robinson Ellen Clancy and Alberto Arribas† and Shakir Mohamed},
+  title={Skillful Precipitation Nowcasting using Deep Generative Models of Radar},
+  journal={Nature},
+  volume={597},
+  pages={672--677},
+  year={2021}
+}
+@misc{Koch2021attentionisallyouneed,
+  author = {Koch, Brando},
+  title = {attention-is-all-you-need},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/brandokoch/attention-is-all-you-need-paper}},
+}
+
+
+https://github.com/openclimatefix/skillful_nowcasting
+https://github.com/hyungting/DGMR-pytorch
+https://github.com/amazon-science/earth-forecasting-transformer
+https://github.com/luochuyao/PFST-LSTM
+https://github.com/ZJUGiveLab/ScaleFormer
+https://github.com/MIT-AI-Accelerator/neurips-2020-sevir
+https://github.com/MIT-AI-Accelerator/eie-sevir
+https://github.com/jadore801120/attention-is-all-you-need-pytorch
+https://github.com/fbcotter/pytorch_wavelets
+
+
+
+
+
