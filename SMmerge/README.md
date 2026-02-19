@@ -32,5 +32,4 @@ The following Python packages are required to run the code:
 
 ## 4. Citation
 
-If you use this dataset or code in your research, please cite the corresponding data publication using the DOI:  
-(https://doi.org/10.11888/Terre.tpdc.302923)
+Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences. https:/doi.org/10.1007/s00376-026-5612-9
